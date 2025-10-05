@@ -1,0 +1,38 @@
+.components__card--green {
+  background-color: #B9FF66;
+  color: black;
+   .title{
+    background-color: white;
+  }
+  .subtitle{
+    background-color: white;
+  }
+}
+
+.components__card--white {
+  background-color: #FFFFFF;
+  color: black;
+   .title{
+    background-color: #B9FF66;
+  }
+  .subtitle{
+    background-color: #B9FF66;
+  }
+}
+
+.components__card--black {
+  background-color: #191A23;
+  color: black;
+  .image{
+    background-color: white;
+  }
+  .title{
+    background-color: white;
+  }
+  .subtitle{
+    background-color: white;
+  }
+  .Bot{
+    color: white;
+  }
+}

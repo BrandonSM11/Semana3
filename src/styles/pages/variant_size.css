@@ -1,0 +1,36 @@
+.components__button--primary{
+    background-color: #2563EB;
+}
+.components__button--secondary{
+    background-color: #6B7280;
+}
+.components__button--outline{
+    background-color: transparent;
+    color: black;
+   
+}
+.components__button--danger{
+    background-color: #DC2626;
+}
+.components_size--sm{
+    width: 30px;
+    height: 30px;
+    font-size: 7px;
+    display: flex;
+    justify-content: center;
+
+}
+.components_size--md{
+    width: 70px;
+    height: 60px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+}
+.components_size--lg{
+    width: 150px;
+    height: 40px;
+    font-size: 15px;  
+    display: flex;
+    justify-content: center; 
+}
